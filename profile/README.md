@@ -27,7 +27,7 @@
   <table>
     <tbody>
       <tr>
-        <th>개발　언어</th>
+        <th align="left">Languages</th>
         <td>
           <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
           <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -36,23 +36,16 @@
         </td>
       </tr>
       <tr>
-        <th>데이터베이스</th>
-        <td>
-          <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-          <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-        </td>
-      </tr>
-      <tr>
-        <th>프레임워크</th>
+        <th align="left">Frameworks</th>
         <td>
           <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
           <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
-          <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
           <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=mybatis&logoColor=white" />
+          <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
         </td>
       </tr>
       <tr>
-        <th>라이브러리</th>
+        <th align="left">Libraries</th>
         <td>
           <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
           <img alt="Bootstrap Icons" src="https://img.shields.io/badge/bootstrap_icons-white?style=for-the-badge&logo=Bootstrap&logoColor=white&color=712cf9" />
@@ -61,13 +54,20 @@
         </td>
       </tr>
       <tr>
-        <th>A　 P　 I</th>
+        <th align="left">Databases</th>
+        <td>
+          <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+          <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+        </td>
+      </tr>
+      <tr>
+        <th align="left">APIs & SDKs</th>
         <td>
           <img alt="PortOne API" src="https://img.shields.io/badge/PortOne_API-f97316?style=for-the-badge&logo=api&logoColor=white" />
         </td>
       </tr>
       <tr>
-        <th>개발　도구</th>
+        <th align="left">Version Control & IDEs</th>
         <td>
           <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
           <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -75,7 +75,7 @@
         </td>
       </tr>
        <tr>
-        <th>협업　도구</th>
+        <th align="left">Collaboration Platforms</th>
         <td>
           <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
           <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
