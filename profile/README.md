@@ -1,4 +1,3 @@
-# 펜토리얼(Pentoryall)
 
 <br />
 
