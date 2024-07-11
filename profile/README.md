@@ -23,36 +23,46 @@
 
 <br />
   
-## 💻 개발환경 및 언어
+## 💻 기술
   <table>
     <tbody>
       <tr>
-        <th>프론트엔드</th>
+        <th>개발　언어</th>
         <td>
+          <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
           <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
           <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
           <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-          <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-          <img alt="Bootstrap Icons" src="https://img.shields.io/badge/bootstrap_icons-white?style=for-the-badge&logo=Bootstrap&logoColor=white&color=712cf9" />
         </td>
       </tr>
       <tr>
-        <th>백　엔　드</th>
+        <th>데이터베이스</th>
         <td>
-          <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-          <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-          <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
-          <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=mybatis&logoColor=white" />
-          <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
           <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
           <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
         </td>
       </tr>
       <tr>
+        <th>프레임워크</th>
+        <td>
+          <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+          <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
+          <img alt="Thymeleaf" src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
+          <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=mybatis&logoColor=white" />
+        </td>
+      </tr>
+      <tr>
         <th>라이브러리</th>
         <td>
+          <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+          <img alt="Bootstrap Icons" src="https://img.shields.io/badge/bootstrap_icons-white?style=for-the-badge&logo=Bootstrap&logoColor=white&color=712cf9" />
           <img alt="Swiper.js" src="https://img.shields.io/badge/Swiper.js-6332F6?style=for-the-badge&logo=swiper&logoColor=white" />
           <img alt="Toast UI Editor" src="https://img.shields.io/badge/Toast_UI_Editor-7952B3?style=for-the-badge&logo=toast&logoColor=white" />
+        </td>
+      </tr>
+      <tr>
+        <th>A　 P　 I</th>
+        <td>
           <img alt="PortOne API" src="https://img.shields.io/badge/PortOne_API-f97316?style=for-the-badge&logo=api&logoColor=white" />
         </td>
       </tr>
