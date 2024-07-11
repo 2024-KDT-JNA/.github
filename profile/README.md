@@ -9,8 +9,8 @@
       </td>
       <td>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/2024-KDT-JNA/.github/blob/main/logo/logo_pentoryall_horizontal_darkmode.png?raw=true">
-          <img src="https://github.com/2024-KDT-JNA/.github/blob/main/logo/logo_pentoryall_horizontal_lightmode.png?raw=true" height="75">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/2024-KDT-JNA/.github/blob/main/assets/logo/logo_pentoryall_horizontal_darkmode.png?raw=true">
+          <img src="https://github.com/2024-KDT-JNA/.github/blob/main/assets/logo/logo_pentoryall_horizontal_lightmode.png?raw=true" height="75">
         </picture>
       </td>
     </tr>
