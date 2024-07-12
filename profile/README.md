@@ -110,19 +110,19 @@
     <tbody>
        <tr>
         <td>
-          <img alt="고동환"src="https://avatars.githubusercontent.com/u/111329365?v=4" width="110"/>
+          <img alt="고동환"src="https://avatars.githubusercontent.com/u/111329365" width="125" height="125"/>
         </td>
         <td>
-          <img alt="김아현"src="https://avatars.githubusercontent.com/u/42160693?s=96&v=4" width="110"/>
+          <img alt="김아현"src="https://avatars.githubusercontent.com/u/42160693 "width="125" height="125"/>
         </td>
         <td>
-          <img alt="신승재"src="https://avatars.githubusercontent.com/u/154950075?s=60&v=4" width="110"/>
+          <img alt="신승재"src="https://avatars.githubusercontent.com/u/154950075" width="125" height="125"/>
         </td>
         <td>
-          <img alt="오나윤"src="https://avatars.githubusercontent.com/u/99164178?s=60&v=4" width="110"/>
+          <img alt="오나윤"src="https://avatars.githubusercontent.com/u/99164178" width="125" height="125"/>
         </td>
         <td>
-          <img alt="정가연" src="https://avatars.githubusercontent.com/u/163974510?v=4" width="110"/>
+          <img alt="정가연" src="https://avatars.githubusercontent.com/u/163974510" width="125" height="125"/>
         </td>
       </tr>
        <tr>
